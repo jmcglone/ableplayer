@@ -52,11 +52,11 @@ var en = {
 
 "language": "Language",
 
-"sign": "Sign language",
+"sign": "Slides",
 
-"showSign": "Show sign language",
+"showSign": "Show slides",
 
-"hideSign": "Hide sign language",
+"hideSign": "Hide slides",
 
 "seekbarLabel": "timeline",
 
