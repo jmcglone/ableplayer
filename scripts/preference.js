@@ -160,7 +160,8 @@
 				'name': 'prefCaptions', // closed captions default state
 				'label': null,
 				'group': 'captions',
-				'default': 1
+				// DSDJ CUSTOMIZATION, SET TO 0 to TURN OFF BY DEFAULT
+                'default': 0
 			});
 /* // not supported yet
 			prefs.push({
